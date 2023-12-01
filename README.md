@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @greatbaozi001
 - 👀 I’m interested in Deep learning, Computer Vision, Image Generation
-- 🌱 I’m currently learning diffusion models, generative adversarial networks.
+- 🌱 I’m currently learning ~~diffusion models, generative adversarial networks,~~ neural radiance field, gaussian splatting.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
